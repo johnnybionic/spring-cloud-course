@@ -3,4 +3,4 @@ spring:
     entry:
       one: hello
 lucky-word: Rabbit's Foot
-another-word: production
+another-word: daredevil
